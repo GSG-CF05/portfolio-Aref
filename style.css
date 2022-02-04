@@ -3,7 +3,7 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  height: 100%;
+  min-height: 100%;
 }
 nav {
   background: linear-gradient(to top, #000000, #181818);
@@ -60,7 +60,7 @@ section {
 }
 .main1{
     width: 45%;
-    height:50vh;
+    
 }
 h1 {
   background: linear-gradient(to right, #2c3e50, #3498db);
