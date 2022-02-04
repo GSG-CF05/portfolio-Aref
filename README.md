@@ -11,5 +11,5 @@ For this project I'll be creating a portfolio website that includes the followin
 - **Adobe's Photoshop**
 
 ## Where you can visit the page:
-// put a link here upon finishing the project
+https://gsg-cf05.github.io/portfolio-Aref/
 ### Built by: Aref Alrayes.
