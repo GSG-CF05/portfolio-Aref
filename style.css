@@ -1,0 +1,84 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  height: 100%;
+}
+nav {
+  background: linear-gradient(to top, #000000, #181818);
+  border-bottom: 1px solid #111213;
+  border-radius: 0px 0px 30px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background: linear-gradient(to top, #2c3e50, #3498db);
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
+  font-weight: bold;
+}
+a:hover {
+  text-shadow: 0px 0px 10px white;
+}
+.name:hover {
+  text-shadow: 0px 0px 10px white;
+}
+.name {
+  font-family: "mehrajan";
+  font-size: 3rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
+  line-height: 3.5rem;
+  font-weight: bold;
+  text-shadow: 0px 0px 10px white;
+  
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  width: 93%;
+
+  background-color: black;
+  margin: 10px;
+  border: 1px solid #111213;
+  border-radius: 30px;
+  padding-bottom: 60px;
+}
+.main1{
+    width: 45%;
+    height:50vh;
+}
+h1 {
+  background: linear-gradient(to right, #2c3e50, #3498db);
+  text-shadow: 0px 0px 5px black;
+  color: black;
+  font-size: 3rem;
+  margin: 10px;
+  padding-left: 15px;
+  border-bottom: 2px solid black;
+  border-radius: 30px;
+}
+p {
+  color: white;
+  font-size: 1.3rem;
+  margin: 5px;
+  padding-left: 15px;
+  font-weight: bold;
+}
+#sec3{
+    margin:auto;
+}
